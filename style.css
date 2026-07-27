@@ -13,6 +13,14 @@ left: 15%;
 color: white;
 font-size: 40px;           
 }
+.lay{
+ position:absolute;
+top: 60%;                 
+left: 10%;   
+color: whitesmoke;
+text-shadow: 5px 5px 5px aqua;
+font-size: 40px;      
+}
 .over-layout{
 position:absolute;
 top: 10%;                 
