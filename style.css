@@ -48,7 +48,7 @@ font-size: 80px;
 .red{
  position:absolute;
 top: 60%;                 
-left: 20%;   
+left: 30%;   
 color: white;
 font-size: 50px;   
 }
@@ -62,7 +62,7 @@ font-size: 50px;
 .overplay{
  position:absolute;
 top: 10%;                 
-left: 15%;   
+left: 25%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
 font-size: 80px;         
@@ -70,7 +70,7 @@ font-size: 80px;
 .green{
  position:absolute;
 top: 60%;                 
-left: 10%;   
+left: 30%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
 font-size: 50px;   
@@ -92,7 +92,7 @@ font-size: 80px;
 }
  .hear{
  position:absolute;
-top: 60%;                 
+top: 70%;                 
 left: 25%;   
 color: white;
 text-shadow: 3px 3px 3px black;
@@ -115,8 +115,8 @@ font-size: 80px;
 }  
 .get{
  position:absolute;
-top: 60%;                 
-left: 15%;   
+top: 70%;                 
+left: 30%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 50px;   
@@ -138,8 +138,8 @@ font-size: 80px;
 }   
 .out{
  position:absolute;
-top: 60%;                 
-left: 15%;   
+top: 70%;                 
+left: 30%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 50px;   
@@ -148,20 +148,20 @@ font-size: 50px;
      position: relative;
 }
 .image-high img{
-    width: 700px;
-    height: 700px;
+    width: 800px;
+    height: 800px;
 }
 .overheigt{
  position:absolute;
 top: 10%;                 
-left: 20%;   
+left: 30%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }
 .ball{
  position:absolute;
-top: 60%;                 
+top: 70%;                 
 left: 25%;   
 color: white;
 text-shadow: 3px 3px 3px black;
