@@ -47,7 +47,8 @@ font-size: 80px;
 .overplay{
  position:absolute;
 top: 10%;                 
-left: 40%;   
+left: 40%;  
+font-style:  italic;
 color: white;
 font-size: 80px;         
 }  
@@ -63,6 +64,7 @@ font-size: 80px;
 top: 10%;                 
 left: 40%;   
 color: white;
+font-style:  italic;
 font-size: 80px;         
 }  
 .image-con{
@@ -77,6 +79,7 @@ font-size: 80px;
 top: 10%;                 
 left: 40%;   
 color: white;
+font-style:  italic;
 font-size: 80px;         
 }  
 .image-size{
@@ -91,6 +94,7 @@ font-size: 80px;
 top: 10%;                 
 left: 40%;   
 color: white;
+font-style:  italic;
 font-size: 80px;         
 }   
 .image-high{
@@ -105,6 +109,7 @@ font-size: 80px;
 top: 10%;                 
 left: 40%;   
 color: white;
+font-style:  italic;
 font-size: 80px;         
 }   
 
