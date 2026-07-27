@@ -8,7 +8,7 @@ container{
 }
 .over{
  position:absolute;
-top: 80%;                 
+top: 70%;                 
 left: 15%;   
 color: white;
 font-size: 40px;           
@@ -47,8 +47,8 @@ font-size: 80px;
 }
 .red{
  position:absolute;
-top: 50%;                 
-left: 25%;   
+top: 60%;                 
+left: 20%;   
 color: white;
 font-size: 50px;   
 }
@@ -62,15 +62,15 @@ font-size: 50px;
 .overplay{
  position:absolute;
 top: 10%;                 
-left: 20%;   
+left: 15%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
 font-size: 80px;         
 }  
 .green{
  position:absolute;
-top: 50%;                 
-left: 15%;   
+top: 60%;                 
+left: 10%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
 font-size: 50px;   
@@ -92,7 +92,7 @@ font-size: 80px;
 }
  .hear{
  position:absolute;
-top: 50%;                 
+top: 60%;                 
 left: 25%;   
 color: white;
 text-shadow: 3px 3px 3px black;
@@ -108,15 +108,15 @@ font-size: 50px;
 .overout{
  position:absolute;
 top: 10%;                 
-left: 40%;   
+left: 25%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }  
 .get{
  position:absolute;
-top: 50%;                 
-left: 25%;   
+top: 60%;                 
+left: 15%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 50px;   
@@ -131,15 +131,15 @@ font-size: 50px;
 .overweigt{
  position:absolute;
 top: 10%;                 
-left: 40%;   
+left: 20%;   
 color: white;
  text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }   
 .out{
  position:absolute;
-top: 50%;                 
-left: 25%;   
+top: 60%;                 
+left: 15%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 50px;   
@@ -154,14 +154,14 @@ font-size: 50px;
 .overheigt{
  position:absolute;
 top: 10%;                 
-left: 40%;   
+left: 20%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }
 .ball{
  position:absolute;
-top: 50%;                 
+top: 60%;                 
 left: 25%;   
 color: white;
 text-shadow: 3px 3px 3px black;
