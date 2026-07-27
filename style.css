@@ -18,7 +18,7 @@ font-size: 40px;
 top: 60%;                 
 left: 10%;   
 color: black;
-text-shadow: 5px 5px 5px white;
+text-shadow: 3px 3px 3px white;
 font-size: 50px;      
 }
 .over-layout{
@@ -51,8 +51,6 @@ position:absolute;
 top: 50%;                 
 left: 25%;   
 color: white;
-text-shadow: 4px 4px 4px black;
-font-style:  italic;
 font-size: 50px;   
     
 .image-container{
@@ -69,7 +67,14 @@ left: 40%;
 font-style:  italic;
 color: white;
 font-size: 80px;         
-}  
+}
+.green{
+ position:absolute;
+top: 50%;                 
+left: 25%;   
+color: white;
+font-size: 50px;   
+}
 .image-contain{
      position: relative;
 }
@@ -84,7 +89,14 @@ left: 40%;
 color: white;
 font-style:  italic;
 font-size: 80px;         
-}  
+} 
+.hear{
+ position:absolute;
+top: 50%;                 
+left: 25%;   
+color: white;
+font-size: 50px;   
+}
 .image-con{
      position: relative;
 }
@@ -99,7 +111,14 @@ left: 40%;
 color: white;
 font-style:  italic;
 font-size: 80px;         
-}  
+} 
+.get{
+    position:absolute;
+top: 50%;                 
+left: 25%;   
+color: white;
+font-size: 50px;   
+}
 .image-size{
      position: relative;
 }
@@ -114,7 +133,8 @@ left: 40%;
 color: white;
 font-style:  italic;
 font-size: 80px;         
-}   
+} 
+    
 .image-high{
      position: relative;
 }
