@@ -48,9 +48,10 @@ font-size: 80px;
 }
 .red{
 position:absolute;
-top: 30%;                 
-left: 10%;   
+top: 50%;                 
+left: 25%;   
 color: white;
+text-shadow: 4px 4px 4px black;
 font-style:  italic;
 font-size: 50px;   
     
