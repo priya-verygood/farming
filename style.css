@@ -10,14 +10,14 @@
  position:absolute;
 top: 70%;                 
 left: 15%;   
-color: blue;
+color: white;
 font-size: 40px;           
 }
 .over-layout{
 position:absolute;
 top: 10%;                 
 left: 40%;   
-color: blueviolet;
+color: red;
 font-size: 80px;  
 text-shadow: 3px 3px 3px black ;       
 }
