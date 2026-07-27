@@ -1,4 +1,4 @@
-.container{
+container{
     position:relative;
 }
 .container img{
@@ -18,7 +18,7 @@ font-size: 40px;
 top: 60%;                 
 left: 10%;   
 color: black;
-text-shadow: 3px 3px 3px white;
+text-shadow: 5px 5px 5px white;
 font-size: 50px;      
 }
 .over-layout{
@@ -40,19 +40,18 @@ text-shadow: 3px 3px 3px black ;
 .overlay-text{
 position:absolute;
 top: 10%;                 
-left: 30%;   
+left: 40%;   
 color: white;
-text-shadow:3px 3px 3px black;
-font-style:  italic;
+text-shadow: 4px 4px 4px black;
 font-size: 80px;         
 }
 .red{
-position:absolute;
+ position:absolute;
 top: 50%;                 
 left: 25%;   
 color: white;
 font-size: 50px;   
-}   
+}
 .image-container{
      position: relative;
 }
@@ -63,11 +62,10 @@ font-size: 50px;
 .overplay{
  position:absolute;
 top: 10%;                 
-left: 40%;  
-font-style:  italic;
+left: 40%;   
 color: white;
 font-size: 80px;         
-}
+}  
 .green{
  position:absolute;
 top: 50%;                 
@@ -87,10 +85,9 @@ font-size: 50px;
 top: 10%;                 
 left: 40%;   
 color: white;
-font-style:  italic;
 font-size: 80px;         
-} 
-.hear{
+}
+ .hear{
  position:absolute;
 top: 50%;                 
 left: 25%;   
@@ -109,11 +106,10 @@ font-size: 50px;
 top: 10%;                 
 left: 40%;   
 color: white;
-font-style:  italic;
 font-size: 80px;         
-} 
+}  
 .get{
-    position:absolute;
+ position:absolute;
 top: 50%;                 
 left: 25%;   
 color: white;
@@ -131,16 +127,15 @@ font-size: 50px;
 top: 10%;                 
 left: 40%;   
 color: white;
-font-style:  italic;
 font-size: 80px;         
-} 
- .out{
+}   
+.out{
  position:absolute;
 top: 50%;                 
 left: 25%;   
 color: white;
-font-size: 50px; 
- }
+font-size: 50px;   
+}
 .image-high{
      position: relative;
 }
@@ -153,9 +148,8 @@ font-size: 50px;
 top: 10%;                 
 left: 40%;   
 color: white;
-font-style:  italic;
 font-size: 80px;         
-}   
+}
 .ball{
  position:absolute;
 top: 50%;                 
@@ -163,6 +157,19 @@ left: 25%;
 color: white;
 font-size: 50px;   
 }
+
+
+
+
+
+
+
+
+
+
+
+   
+
 
 
 
