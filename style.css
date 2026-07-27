@@ -19,7 +19,6 @@ top: 60%;
 left: 10%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
-}
 font-size: 50px;      
 }
 .over-layout{
@@ -35,8 +34,8 @@ text-shadow: 3px 3px 3px black ;
     position: relative;
 }
 .contain img{
-    width: 700px;
-    height: 700px;
+    width: 800px;
+    height: 800px;
 }
 .overlay-text{
 position:absolute;
@@ -57,14 +56,15 @@ font-size: 50px;
      position: relative;
 }
 .image-container img{
-    width: 700px;
-    height: 700px;
+    width: 800px;
+    height: 800px;
 }
 .overplay{
  position:absolute;
 top: 10%;                 
-left: 40%;   
+left: 20%;   
 color: white;
+text-shadow: 3px 3px 3px black ;       
 font-size: 80px;         
 }  
 .green{
@@ -72,6 +72,7 @@ font-size: 80px;
 top: 50%;                 
 left: 15%;   
 color: white;
+text-shadow: 3px 3px 3px black ;       
 font-size: 50px;   
 }
 .image-contain{
@@ -94,20 +95,22 @@ font-size: 80px;
 top: 50%;                 
 left: 25%;   
 color: white;
+text-shadow: 3px 3px 3px black;
 font-size: 50px;   
 }
 .image-con{
      position: relative;
 }
 .image-con img{
-    width: 700px;
-    height: 700px;
+    width: 800px;
+    height: 800px;
 }
 .overout{
  position:absolute;
 top: 10%;                 
 left: 40%;   
 color: white;
+text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }  
 .get{
@@ -115,20 +118,22 @@ font-size: 80px;
 top: 50%;                 
 left: 25%;   
 color: white;
+text-shadow: 3px 3px 3px black;
 font-size: 50px;   
 }
 .image-size{
      position: relative;
 }
 .image-size img{
-    width: 700px;
-    height: 700px;
+    width: 800px;
+    height: 800px;
 }
 .overweigt{
  position:absolute;
 top: 10%;                 
 left: 40%;   
 color: white;
+ text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }   
 .out{
@@ -136,6 +141,7 @@ font-size: 80px;
 top: 50%;                 
 left: 25%;   
 color: white;
+text-shadow: 3px 3px 3px black;
 font-size: 50px;   
 }
 .image-high{
@@ -150,6 +156,7 @@ font-size: 50px;
 top: 10%;                 
 left: 40%;   
 color: white;
+text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }
 .ball{
@@ -157,6 +164,7 @@ font-size: 80px;
 top: 50%;                 
 left: 25%;   
 color: white;
+text-shadow: 3px 3px 3px black;
 font-size: 50px;   
 }
 
