@@ -134,7 +134,13 @@ color: white;
 font-style:  italic;
 font-size: 80px;         
 } 
-    
+ .out{
+ position:absolute;
+top: 50%;                 
+left: 25%;   
+color: white;
+font-size: 50px; 
+ }
 .image-high{
      position: relative;
 }
@@ -150,6 +156,13 @@ color: white;
 font-style:  italic;
 font-size: 80px;         
 }   
+.ball{
+ position:absolute;
+top: 50%;                 
+left: 25%;   
+color: white;
+font-size: 50px;   
+}
 
 
 
