@@ -8,7 +8,7 @@ container{
 }
 .over{
  position:absolute;
-top: 70%;                 
+top: 60%;                 
 left: 15%;   
 color: white;
 font-size: 40px;           
@@ -82,8 +82,9 @@ font-size: 50px;
 .overhit{
  position:absolute;
 top: 10%;                 
-left: 40%;   
+left: 30%;   
 color: white;
+text-shadow: 3px 3px 3px black;
 font-size: 80px;         
 }
  .hear{
