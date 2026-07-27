@@ -8,14 +8,14 @@ container{
 }
 .over{
  position:absolute;
-top: 40%;                 
+top: 50%;                 
 left: 15%;   
 color: white;
 font-size: 40px;           
 }
 .lay{
  position:absolute;
-top: 50%;                 
+top: 40%;                 
 left: 10%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
