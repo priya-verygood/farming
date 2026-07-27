@@ -8,14 +8,14 @@ container{
 }
 .over{
  position:absolute;
-top: 70%;                 
+top: 60%;                 
 left: 15%;   
 color: white;
 font-size: 40px;           
 }
 .lay{
  position:absolute;
-top: 60%;                 
+top: 50%;                 
 left: 10%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
@@ -108,7 +108,7 @@ font-size: 50px;
 .overout{
  position:absolute;
 top: 10%;                 
-left: 20%;   
+left: 10%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 80px;         
@@ -116,7 +116,7 @@ font-size: 80px;
 .get{
  position:absolute;
 top: 70%;                 
-left: 25%;   
+left: 15%;   
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 50px;   
