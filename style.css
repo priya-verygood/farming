@@ -32,8 +32,9 @@ text-shadow: 3px 3px 3px black ;
 .overlay-text{
 position:absolute;
 top: 10%;                 
-left: 40%;   
+left: 30%;   
 color: white;
+font-style:  italic;
 font-size: 80px;         
 }
 .image-container{
