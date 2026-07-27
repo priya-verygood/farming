@@ -19,7 +19,10 @@ top: 40%;
 left: 10%;   
 color: white;
 text-shadow: 3px 3px 3px black ;       
-font-size: 50px;      
+font-size: 50px; 
+ font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .over-layout{
 position:absolute;
@@ -51,7 +54,10 @@ font-size: 80px;
 top: 70%;                 
 left: 25%;   
 color: white;
-font-size: 50px;   
+font-size: 50px;  
+font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .image-container{
      position: relative;
@@ -76,6 +82,9 @@ left: 15%;
 color: white;
 text-shadow: 3px 3px 3px black ;       
 font-size: 50px;   
+ font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .image-contain{
      position: relative;
@@ -100,6 +109,9 @@ left: 25%;
 color: white;
 text-shadow: 3px 3px 3px black;
 font-size: 50px;   
+ font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .image-con{
      position: relative;
@@ -123,7 +135,10 @@ top: 70%;
 left: 15%;   
 color: white;
 text-shadow: 3px 3px 3px black;
-font-size: 50px;   
+font-size: 50px;  
+ font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .image-size{
      position: relative;
@@ -147,7 +162,10 @@ top: 70%;
 left: 20%;   
 color: white;
 text-shadow: 3px 3px 3px black;
-font-size: 50px;   
+font-size: 50px; 
+ font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .image-high{
      position: relative;
@@ -171,7 +189,10 @@ top: 70%;
 left: 25%;   
 color: white;
 text-shadow: 3px 3px 3px black;
-font-size: 50px;   
+font-size: 50px;
+font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 
