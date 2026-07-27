@@ -1,16 +1,115 @@
-.over-layout{
-position:absolute;
-top: 10%;                 
-left: 40%;   
-color: black;
-font-size: 80px;         
-}
 .container{
     position:relative;
 }
 .container img{
     width: 1000px;
-    height: 1000px;   
+    height: 1000px;
+    
 }
+.over{
+ position:absolute;
+top: 70%;                 
+left: 15%;   
+color: blue;
+font-size: 40px;           
+}
+.over-layout{
+position:absolute;
+top: 10%;                 
+left: 40%;   
+color: blueviolet;
+font-size: 80px;  
+text-shadow: 3px 3px 3px black ;       
+}
+.contain{
+    position: relative;
+}
+.contain img{
+    width: 700px;
+    height: 700px;
+}
+.overlay-text{
+position:absolute;
+top: 10%;                 
+left: 40%;   
+color: white;
+font-size: 80px;         
+}
+.image-container{
+     position: relative;
+}
+.image-container img{
+    width: 700px;
+    height: 700px;
+}
+.overplay{
+ position:absolute;
+top: 10%;                 
+left: 40%;   
+color: white;
+font-size: 80px;         
+}  
+.image-contain{
+     position: relative;
+}
+.image-contain img{
+    width: 700px;
+    height: 700px;
+}
+.overhit{
+ position:absolute;
+top: 10%;                 
+left: 40%;   
+color: white;
+font-size: 80px;         
+}  
+.image-con{
+     position: relative;
+}
+.image-con img{
+    width: 700px;
+    height: 700px;
+}
+.overout{
+ position:absolute;
+top: 10%;                 
+left: 40%;   
+color: white;
+font-size: 80px;         
+}  
+.image-size{
+     position: relative;
+}
+.image-size img{
+    width: 700px;
+    height: 700px;
+}
+.overweigt{
+ position:absolute;
+top: 10%;                 
+left: 40%;   
+color: white;
+font-size: 80px;         
+}   
+.image-high{
+     position: relative;
+}
+.image-high img{
+    width: 700px;
+    height: 700px;
+}
+.overheigt{
+ position:absolute;
+top: 10%;                 
+left: 40%;   
+color: white;
+font-size: 80px;         
+}   
+
+
+
+
+
+
 
 
